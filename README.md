@@ -1,10 +1,13 @@
 # calculadora_simples_e_tdd
 Uma calculadora que o principal intuito de demonstra conhecimento com pytest
 
-Para rodar o projeto basta instalar o requirements.txt(Recomendado instalar dentro de um ambienta virtual:
+### colone o repositorio
+:~$ git clonehttps://github.com/HelderMenegatti/calculadora_simples_e_tdd
 
-pip3 install -r requirements.txt
+### Para rodar o projeto basta instalar o requirements.txt(Recomendado instalar dentro de um ambienta virtual:
 
-Para realizar os teste basta entrar no diretorio test/calculadora e rodar o seguinte comando:
+:~$ pip3 install -r requirements.txt
 
-pytest -vs
+### Para realizar os teste basta entrar no diretorio test/calculadora e rodar o seguinte comando:
+
+:~$ pytest -vs
